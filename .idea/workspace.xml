@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="817027c3-466d-4524-b449-2371c1cc1715" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1k5gobuf0DYXBYojUkiUhhrYK4f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pamoka2\templates\main\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pamoka2\templates\main\css" />
+      <recent name="C:\xampp\htdocs\pamoka2\templates\main\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="817027c3-466d-4524-b449-2371c1cc1715" name="Default Changelist" comment="" />
+      <created>1604996041326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604996041326</updated>
+      <workItem from="1604996042375" duration="1117000" />
+      <workItem from="1604997331226" duration="1163000" />
+      <workItem from="1605285683192" duration="6000" />
+      <workItem from="1605618803456" duration="732000" />
+      <workItem from="1605621564831" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1970" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604997141912">
+      <screen x="1600" y="4" width="1280" height="1024" />
+    </state>
+    <state x="1970" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.900/1600.4.1280.1024@1600.4.1280.1024" timestamp="1604997141912" />
+    <state x="525" y="234" key="FileChooserDialogImpl" timestamp="1605620060432">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="525" y="234" key="FileChooserDialogImpl/0.0.1600.900/1600.4.1280.1024@0.0.1600.900" timestamp="1605620060432" />
+    <state x="2020" y="270" key="FileChooserDialogImpl/0.0.1600.900/1600.4.1280.1024@1600.4.1280.1024" timestamp="1605620045764" />
+  </component>
+</project>
